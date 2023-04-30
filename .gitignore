@@ -6,3 +6,6 @@
 /.vagrant/
 /vagrant_share/
 /build/
+
+.DS_Store
+._*
